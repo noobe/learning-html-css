@@ -1,0 +1,3 @@
+# Text formatting tags
+
+- Headings
