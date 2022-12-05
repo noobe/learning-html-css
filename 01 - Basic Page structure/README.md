@@ -27,3 +27,9 @@ The file starts with the doctype declaration that specifies the doctype version 
   2. `HTML` tag to encapsulate the whole page content
   3. `HEAD` tag to encapsulate specifications about the page (which does not appear on the actual page in the browser).
   4. `BODY` tag that contains content that finally gets rendered on the page.
+
+## ATTRIBUTES
+- Attributes provide additional information about the element.
+- All html elements can have attributes
+- Attributes are always specified in the start tag
+- Attributes usually come in name/value pairs like: name="value"
