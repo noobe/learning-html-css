@@ -1,5 +1,6 @@
 # Images and Links
 
+## Images
 `<img>` tag used to embed images to HTML document.
 The `<img>` tag is empty, it contains attributes only, and does not have a closing tag.
 The `<img>` tag has two required attributes:
@@ -10,3 +11,11 @@ When a web page loads, it is the browser, at that moment, that gets the image fr
 The required `alt` attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
 If a browser cannot find an image, it will display the value of the `alt` attribute.
 Screen readers also reads the content of the `alt` attribure when it reaches that part of the page.
+
+## Links
+- HTML links are hyperlinks.
+- You can click on a link and jump to a different section of the document OR to another document.
+- When you move the mouse over a link, the mouse arrow will turn into a little hand.
+- The HTML <a> tag defines a hyperlink. It has the following syntax:
+`<a href="url">link text</a>`
+- 
