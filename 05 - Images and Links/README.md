@@ -18,4 +18,14 @@ Screen readers also reads the content of the `alt` attribure when it reaches tha
 - When you move the mouse over a link, the mouse arrow will turn into a little hand.
 - The HTML <a> tag defines a hyperlink. It has the following syntax:
 `<a href="url">link text</a>`
-- 
+- By default, links will appear as follows in all browsers:
+  1. An unvisited link is underlined and blue
+  2. A visited link is underlined and purple
+  3. An active link is underlined and red
+
+- The `target` attribute specifies where to open the linked document and can have the following values:
+  1. _self - Default. Opens the document in the same window/tab as it was clicked
+  2. _blank - Opens the document in a new window or tab
+  3. _parent - Opens the document in the parent frame
+  4. _top - Opens the document in the full body of the window
+
