@@ -28,4 +28,5 @@ Screen readers also reads the content of the `alt` attribure when it reaches tha
   2. _blank - Opens the document in a new window or tab
   3. _parent - Opens the document in the parent frame
   4. _top - Opens the document in the full body of the window
+Eg: `<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>`
 
